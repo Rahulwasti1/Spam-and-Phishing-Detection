@@ -62,3 +62,7 @@ Both:
 
 💡 Conclusion
 The combined model offers a reliable solution to detect both spam emails and phishing URLs using machine learning, helping protect users from malicious attacks. 🚀
+
+Demonstration:
+
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/873474ab-f9a6-4792-8d44-b644bbfbf5fd">
