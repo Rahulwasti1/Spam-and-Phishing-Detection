@@ -2,7 +2,7 @@
 
 A Comprehensive Guide to Detecting Spam Emails and Phishing URLs
 
-**1. 🛠️ Importing Libraries**
+1. 🛠️ Importing Libraries
 Spam Email Detection:
 Essential libraries like pandas, numpy, and sklearn were imported for data manipulation, modeling, and evaluation.
 Phishing URL Checker:
