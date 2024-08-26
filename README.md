@@ -1,4 +1,4 @@
-**📧 Spam Email & Phishing URL Detection 🔗
+**📧 Spam Email & Phishing URL Detection 🔗  
 A comprehensive machine learning solution to detect spam emails and phishing URLs.**
 
 1. 🛠️ Import Libraries  
