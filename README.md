@@ -60,5 +60,5 @@ Both:
 10. 🌐 Web Application
 🎨 Streamlit Web App: A user-friendly Streamlit web app was developed, combining both functionalities to detect spam emails and phishing URLs.
 
-11. 💡 Conclusion
+💡 Conclusion
 The combined model offers a reliable solution to detect both spam emails and phishing URLs using machine learning, helping protect users from malicious attacks. 🚀
