@@ -1,11 +1,11 @@
 **📧 Spam Email & Phishing URL Detection 🔗
 A comprehensive machine learning solution to detect spam emails and phishing URLs.**
 
-1. 🛠️ Import Libraries
+1. 🛠️ Import Libraries  
 Spam Detection: Imported pandas, numpy, sklearn.
 Phishing Checker: Added plotly, nltk for visualization and tokenization.
 
-2. 📂 Import Datasets
+2. 📂 Import Datasets  
 Spam Detection: Loaded mail_data.csv with email content and labels.
 Phishing Checker: Imported phishing_site_urls.csv with labeled URLs.
 
